@@ -13,3 +13,6 @@ This project is part of my learning journey on Mimo. It showcases a Python appli
 - Install the `requests` library using:
   ```bash
   pip install requests
+
+## Screenshot
+<img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/GPT%20clone.png" alt="screenshot">
